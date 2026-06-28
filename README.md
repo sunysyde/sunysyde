@@ -21,7 +21,7 @@ Outside of work, I enjoy learning new technologies, solving puzzles, reading, ma
 I believe data is more than just numbers—it's a tool for understanding people, improving processes, and driving positive change. I'm always eager to learn, grow, and use my skills to make a real impact.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://sunysyde.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://sunydb.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
